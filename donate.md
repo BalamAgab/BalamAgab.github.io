@@ -44,4 +44,4 @@ Or click "Donate" above and select "Make this a monthly donation."
 
 ## Send MACC comrades to Anarchy 2023
 
-<a href="https://www.paypal.com/donate/?hosted_button_id=QA5YZS6SDP9M4"><img src="https://st-imier.org/static/st-imier.org/images/Anarchy-2023-560px.png" width="212" height="300"></img></a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=QA5YZS6SDP9M4"><img src="https://st-imier.org/static/st-imier.org/images/Anarchy-2023-560px.png" width="212" height="300"></a>
