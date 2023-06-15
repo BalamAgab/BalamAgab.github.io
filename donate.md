@@ -4,7 +4,7 @@ permalink: "/donate"
 layout: simple-page
 ---
 
-Monetary support helps us keep the lights on for our [working groups](https://wiki.macc.nyc/wiki/Category:Working_Groups), and helps us support our comrades doing political work. Support cost often includes bail, other legal expenses, and medical expenses. Thank you for any support you can give!
+Monetary support helps us keep the lights on for our working groups, and helps us support our comrades doing political work. Support cost often includes bail, other legal expenses, and medical expenses. Thank you for any support you can give!
 
 ## One time support
 
@@ -42,6 +42,6 @@ Monetary support helps us keep the lights on for our [working groups](https://wi
 
 Or click "Donate" above and select "Make this a monthly donation."
 
-## <a href="http://www.macclegalfund.org">Pledge to the Bail Fund</a>
+## Send MACC comrades to Anarchy 2023
 
-If you pledge to the Bail Fund, we'll only charge you card when/if we need it to bail someone out. You set the parameters! <a href="http://www.macclegalfund.org">Pledge here!</a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=QA5YZS6SDP9M4"><img src="https://st-imier.org/static/st-imier.org/images/Anarchy-2023-560px.png" width="212" height="300"></img></a>
