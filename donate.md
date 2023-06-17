@@ -52,3 +52,5 @@ Or click "Donate" above and select "Make this a monthly donation."
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
+<p>example</p>
+
